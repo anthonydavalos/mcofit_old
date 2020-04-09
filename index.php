@@ -27,6 +27,25 @@
       </div>
     </nav>
 
+    <!-- Hero -->
+    <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          <h1>Haga crecer su negocio con Mcofit</h1>
+          <h2>La transformación digital está cambiando los negocios, migramos tu infraestructura a la Nube.</h2>
+          <div>
+            <a href="#about" class="btn-get-started scrollto">Contactanos</a>
+          </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2 hero-img">
+          <img src="/images/hero-img.png" class="img-fluid animated" alt="">
+        </div>
+      </div>
+    </div>
+    </section>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
