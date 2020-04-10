@@ -35,7 +35,7 @@
             <h1>Haga crecer su negocio con Mcofit</h1>
             <h2>La transformación digital está cambiando los negocios, migramos tu infraestructura a la Nube.</h2>
             <div>
-              <a href="#about" class="btn-get-started scrollto">Contactanos</a>
+              <a href="#about" class="btn-get-started">Contactanos</a>
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img">
