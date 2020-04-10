@@ -40,7 +40,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
-          <img src="/images/hero-img.png" class="img-fluid animated" alt="">
+          <img src="<?php echo get_template_directory_uri() . '/images/hero-img.png';?>" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
